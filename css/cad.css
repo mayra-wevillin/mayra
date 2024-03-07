@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(153, 74, 228);
+}
+.box{
+    color: rgb(187, 123, 240);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    background-color: rgb(212, 178, 245);
+    padding: 15px;
+    border-radius: 15px;
+
+}
